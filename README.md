@@ -7,6 +7,6 @@ This project implements a real-time driver drowsiness detection system using a h
 ## Key Features
 - CNN-LSTM architecture for combining spatial and temporal features.
 - Real-time yawning detection from video input.
-- Frame sampling, augmentation, and preprocessing pipeline.
+- Frame sampling, and preprocessing pipeline.
 - Tested on diverse datasets for robustness.
 - Cost-efficient and non-intrusive implementation.
