@@ -227,3 +227,6 @@ class _DriverMonitorAppState extends State<DriverMonitorApp> {
     );
   }
 }
+
+
+Copyright (c) 2025 [Atiya, Himna, Nayab]
